@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'app-node-js-okademy'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_01648EA5502F48FF8F4F0545621A0010 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8E66C43D50CC4481BBE042C941208D44 }}
           package: .
